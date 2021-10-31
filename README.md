@@ -1,4 +1,4 @@
-# HomOTL-ODDM
+# HE-CDTL
 Concept Drift-Tolerant Transfer Learning in Dynamic Environments
 
 ## Citation:
